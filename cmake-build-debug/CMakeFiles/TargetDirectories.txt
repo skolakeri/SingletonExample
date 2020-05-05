@@ -1,0 +1,3 @@
+C:/Users/sunja/CLionProjects/SingletonDesignPattern/cmake-build-debug/CMakeFiles/SingletonDesignPattern.dir
+C:/Users/sunja/CLionProjects/SingletonDesignPattern/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sunja/CLionProjects/SingletonDesignPattern/cmake-build-debug/CMakeFiles/rebuild_cache.dir
